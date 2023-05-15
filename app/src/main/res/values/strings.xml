@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zdjecia_zadanie</string>
+    <string name="Button1">Poprzedni</string>
+    <string name="Button2">Następny</string>
+    <string name="Zdj1">Zdjęcie 1/3</string>
+    <string name="Zdj2">Zdjęcie 2/3</string>
+    <string name="Zdj3">Zdjęcie 3/3</string>
+</resources>
